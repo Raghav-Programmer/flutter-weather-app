@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+This Flutter app provides real-time weather information using the OpenWeatherMap API. It displays the current weather conditions, including temperature, humidity, wind speed, and pressure. Additionally, it offers an hourly forecast for the next several hours. The app is built with Material 3 design for a modern and visually appealing interface.
 
 ## Getting Started
 
